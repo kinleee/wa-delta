@@ -1,0 +1,6 @@
+{
+  "name": "wa-delta",
+  "version": "0.1.0",
+  "description": "Replies to WhatsApp Desktop messages while you are away, with style, timing and per-contact permissions",
+  "types": "./types/index.d.ts"
+}

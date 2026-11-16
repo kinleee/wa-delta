@@ -1,0 +1,5 @@
+{
+  "name": "wa-delta",
+  "owner": { "name": "kinleee" },
+  "plugins": [{ "name": "wa-delta", "source": "./" }]
+}
